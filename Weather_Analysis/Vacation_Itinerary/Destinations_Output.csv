@@ -1,0 +1,6 @@
+Hotel_ID,index,City_ID,City,Country,Max_Temp_(F),Wx_Desc,Lat,Lon,Hotel_Name
+225,225,239,Scottsbluff,US,68.23,clear sky,41.8666,-103.6672,Hampton Inn & Suites Scottsbluff-Conference Center
+225,225,239,Scottsbluff,US,68.23,clear sky,41.8666,-103.6672,Hampton Inn & Suites Scottsbluff-Conference Center
+133,133,139,Douglas,US,76.3,clear sky,41.3,-96.167,Hilton Garden Inn Omaha West
+107,107,111,Rolla,US,73.54,clear sky,37.9514,-91.7713,"Holiday Inn Express & Suites Rolla - Univ of Missouri S&T, an IHG Hotel"
+204,204,212,West Plains,US,72.43,clear sky,36.7281,-91.8524,West Plains Motel
